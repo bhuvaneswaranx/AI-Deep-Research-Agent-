@@ -1,0 +1,6 @@
+{
+  "name": "AI Deep Research Agent",
+  "description": "Autonomous multi-agent research system with LangGraph state orchestration, web retrieval, RAG memory layer, gap analysis, and interactive report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
